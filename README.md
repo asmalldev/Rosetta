@@ -1,6 +1,6 @@
 # Rosetta
-Solutions for problems on [Rosetta Code](rosettacode.org)
-[List of unsolved problems](https://rosettacode.org/wiki/Category:Unimplemented_tasks_by_language)
+Solutions for problems on [Rosetta Code](rosettacode.org). 
+See the list of [unsolved problems](https://rosettacode.org/wiki/Category:Unimplemented_tasks_by_language).
 
 ## [ATS Problems to Solve](https://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_ATS)
 * [24 Game](http://rosettacode.org/wiki/24_game)
@@ -8,7 +8,7 @@ Solutions for problems on [Rosetta Code](rosettacode.org)
 * [Balanced Brackets](https://rosettacode.org/wiki/Balanced_brackets)
 * [Brownian Tree](https://rosettacode.org/wiki/Brownian_tree)
 * [Bulls and Cows](https://rosettacode.org/wiki/Bulls_and_cows)
-* [Catalan Numbers] (https://rosettacode.org/wiki/Catalan_numbers)
+* [Catalan Numbers](https://rosettacode.org/wiki/Catalan_numbers)
 * [Doubly-linked List](https://rosettacode.org/wiki/Doubly-linked_list/Definition)
 * [Happy Numbers](https://rosettacode.org/wiki/Happy_numbers)
 * [Knight's Tour](https://rosettacode.org/wiki/Knight%27s_tour)
