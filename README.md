@@ -27,4 +27,28 @@ See the list of [unsolved problems](https://rosettacode.org/wiki/Category:Unimpl
 * [Stair Climbing Puzzle](https://rosettacode.org/wiki/Stair-climbing_puzzle)
 * [Twelve Statements](https://rosettacode.org/wiki/Twelve_statements)
 * [Vampire Numbers](https://rosettacode.org/wiki/Vampire_number)
-* [Visualize a Tree](https://rosettacode.org/wiki/Visualize_a_tree) 
+* [Visualize a Tree](https://rosettacode.org/wiki/Visualize_a_tree)
+
+To compile and run, simply use myatscc or patsopt to compile the source file in
+a problem's sub directory and execute the produced binary.
+
+For example: 
+```
+cd abc_problem
+myatscc abc_problem.dats
+./abc_problem_dats
+```
+output:
+```
+Testing abc_problem.dats ...
+
+	a:		true
+	BaRk		true
+	TreAt:		true
+	squAd:		true
+	conFuSE:	true
+	BooK:		false
+	ComMoN:		false
+
+All tests passed!
+```
